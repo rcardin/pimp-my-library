@@ -127,3 +127,14 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 
+.gitignore
+.idea/$CACHE_FILE$
+.idea/codeStyles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/modules/
+.idea/sbt.xml
+.idea/scala_compiler.xml
+build.sbt
+project/build.properties
+src/
